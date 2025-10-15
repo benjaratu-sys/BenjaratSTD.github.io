@@ -1,2 +1,2 @@
 # BenjaratSTD.github.io
-My personal webpage workshop 
+My personal webpage workshop (NAYA)
